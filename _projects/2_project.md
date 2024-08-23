@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Battery Rack
+description: battery rack for offgrid solar system
 img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+importance: 1
+category: Finished
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.
