@@ -4,7 +4,7 @@ title: title
 description: with background image 
 img: assets/img/face_shield_2.jpg #thumbnail image path
 importance: 5
-category: fill in #should either be Ongoing or Finished
+category: Ongoing Finished #should either be Ongoing or Finished
 related_publications: false
 ---
 
