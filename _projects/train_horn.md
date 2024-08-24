@@ -3,7 +3,7 @@ layout: page
 title: Train Horn
 description: hand held train horn 
 img: assets/img/train_horn_crop.jpg #thumbnail image path 
-importance: 1
+importance: 3
 category: Finished #should either be Ongoing or Finished
 related_publications: false
 ---
