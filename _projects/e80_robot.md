@@ -1,10 +1,10 @@
 ---
 layout: page
-title: title
-description: with background image 
-img: assets/img/face_shield_2.jpg #thumbnail image path
-importance: 5
-category: Ongoing Finished #should either be Ongoing or Finished
+title: Autonomous Underwater Vehicle
+description: seafloor and temperature mapping robot
+img: assets/img/e80_robot_bottom.jpg #thumbnail image path
+importance: 2
+category: Finished #should either be Ongoing or Finished
 related_publications: false
 ---
 

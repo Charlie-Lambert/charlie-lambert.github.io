@@ -94,4 +94,22 @@ With the addition of aluminum parts, fabrication became more complex. Lacking ac
     Figure 6: cartridge
 </div>
 
-The brass parts fit perfectly with the cabin's style, and the lights have proven to be a great replacement for the previous gas fixtures.
+The brass parts fit perfectly with the cabin's style, and the lights have proven to be a great replacement for the previous gas fixtures (Figures 7 and 8).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/light_cabin_1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 7: dual cartridge fixture
+</div> 
+
+ <div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/light_cabin_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Figure 8: single cartridge fixture
+</div>
