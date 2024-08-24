@@ -3,7 +3,7 @@ layout: page
 title: Robotic Arm
 description: 3D printed robotic arm
 img: assets/img/arm_electronics.jpg
-importance: 1
+importance: 2
 category: Ongoing
 ---
 
