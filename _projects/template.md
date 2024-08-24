@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Covid-19 Face Shields
+title: title
 description: with background image 
 img: assets/img/face_shield_2.jpg #thumbnail image path
 importance: 5
