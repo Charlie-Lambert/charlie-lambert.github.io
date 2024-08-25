@@ -14,7 +14,7 @@ related_publications: false
     </div>
 </div>
 
-Write the project background here!
+My families off grid cabin is very off grid. It has no electricity, running water, and dare I say cell service. Each time we make our way up there we fill up a serries of large bottles that will be our drinking water for the week. Whenever we wash dishes we fill up a bag of water, boil it, and add bleach to ensure it is clean. While I love getting a workout in carrying water everywhere it is definity a problem that needs to be solved. After installing solar pannels and an electrical system we are finally ready to take on the project.
 
 <div class="row">
     <div class="col-12">
@@ -22,7 +22,8 @@ Write the project background here!
     </div>
 </div>
 
-Write about the project design process and design here!
+Water systems have two sides: clean and grey. The clean water system describes the sourcing, cleaning, and distributing the water to faucets and a shower. The grey water system describes how used water is collected and treated. Both systems will be described in this project.
+
 
 
 <div class="row">
