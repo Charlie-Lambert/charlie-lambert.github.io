@@ -3,7 +3,7 @@ layout: page
 title: Covid-19 Face Shields
 description: PPE for first responders
 img: assets/img/face_shield_2_crop.jpg #thumbnail image path
-importance: 6
+importance: 7
 category: Finished #should either be Ongoing or Finished
 related_publications: false
 ---

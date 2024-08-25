@@ -3,7 +3,7 @@ layout: page
 title: Lantern
 description: custom and rechargeable light source
 img: assets/img/lantern_action.jpg
-importance: 5
+importance: 6
 category: Finished
 related_publications: false
 ---

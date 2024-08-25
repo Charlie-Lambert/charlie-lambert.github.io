@@ -3,7 +3,7 @@ layout: page
 title: Battery Rack
 description: welded frame for offgrid solar system
 img: assets/img/battery_rack_install_crop.jpg
-importance: 4
+importance: 5
 category: Finished
 giscus_comments: false
 ---
