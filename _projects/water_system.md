@@ -1,8 +1,8 @@
 ---
 layout: page
-title: title
-description: with background image 
-img: assets/img/face_shield_2.jpg #thumbnail image path
+title: Water System
+description: off grid clean and grey water system
+img: assets/img/water_system_1.jpg #thumbnail image path
 importance: 4
 category: Finished #should either be Ongoing or Finished
 related_publications: false
