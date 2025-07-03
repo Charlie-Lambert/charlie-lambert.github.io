@@ -41,7 +41,7 @@ Water systems have two sides: clean and grey. The clean water system describes t
     </div>
 </div>
 
-Talk about the fabrication of the project.
+Building this project was quite the adventure. After working through specifiying all of the parts I designed a stand, shown next to the water tank.
 
 <div class="row">
     <div class="col-12">
