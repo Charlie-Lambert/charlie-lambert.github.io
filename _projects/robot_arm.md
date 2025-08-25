@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Arm
 description: 3D printed robotic arm
-img: assets/img/arm_electronics.jpg
+img: assets/img/arm_electronics.JPG
 importance: 2
 category: Ongoing
 ---
@@ -27,7 +27,7 @@ So far, I have been developing control systems for the actuators that will be us
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arm_actuator.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/arm_actuator.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -44,7 +44,7 @@ To run the actuator testbed, an electronics testbed was needed. We are currently
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/arm_electronics.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/arm_electronics.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
