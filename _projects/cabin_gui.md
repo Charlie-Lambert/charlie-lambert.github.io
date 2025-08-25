@@ -4,7 +4,7 @@ title: Solar Data Logging
 description: data logging and interface for off grid cabin
 img: assets/img/cabin_gui_electronics.jpg
 importance: 3
-category: Ongoing
+category: Ongoing Finished # put like this so it doesn't show up on front page
 giscus_comments: false
 ---
 
