@@ -35,7 +35,7 @@ Water systems have two sides: clean and grey. The clean water system describes t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/well_pump.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/well_pump.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -46,7 +46,7 @@ The main goal for the clean system, shown in Figure 1, is to collect, filter, an
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/water_heater.jpg" title="example image" class="img-fluid rounded z-depth-1" style="transform: rotate(90deg)" %}
+        {% include figure.liquid loading="eager" path="assets/img/water_heater.JPG" title="example image" class="img-fluid rounded z-depth-1" style="transform: rotate(90deg)" %}
     </div>
 </div>
 <div class="caption">
@@ -57,7 +57,7 @@ Running water itself is game-changing in an off-grid cabin, but once you have wa
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/grey_water_2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/grey_water_2.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -76,7 +76,7 @@ There is a lot of hardware that needed to be built and installed for these syste
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/bathroom_sink_crop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/bathroom_sink_crop.JPG" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
